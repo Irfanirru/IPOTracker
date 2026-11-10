@@ -1,0 +1,6 @@
+@IPO_Tracker_HostAddress = http://localhost:5249
+
+GET {{IPO_Tracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
